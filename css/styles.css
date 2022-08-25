@@ -1,0 +1,23 @@
+h1{
+    color: yellow;
+    font-size: 120px;
+    background-color: blue;
+    text-align: center;
+    margin-left: 70px;
+    margin-right: 70px;
+    font-family:cursive;
+}
+h2:hover{
+    cursor: pointer;
+    color: purple;
+    border-bottom: 4px solid black;
+    border-radius:60px ;
+}
+p{
+    background-color: salmon;
+    padding-left:150px;
+    font-style: oblique;
+}
+ul{
+     background: skyblue;
+}
